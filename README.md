@@ -10,8 +10,8 @@ the second part is to "visualize" that game.
 # Full description
 
 You can find the original task description(s) in Polish here:
--[part 1](https://github.com/MrRuper/IPP/blob/main/first_part/project_description.md)
--[part 2](https://github.com/MrRuper/IPP/blob/main/second_part/project_description.md)
+- [part 1](https://github.com/MrRuper/IPP/blob/main/first_part/project_description.md)
+- [part 2](https://github.com/MrRuper/IPP/blob/main/second_part/project_description.md)
 
 ---
 Copyright of the task's description and resources: MIM UW.
